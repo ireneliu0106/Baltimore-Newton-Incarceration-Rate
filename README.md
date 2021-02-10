@@ -5,9 +5,10 @@ The United States has one of the highest incarceration rate in the world. In the
 ## Business Question
 What is the relationship between incarceration rates and parent income?
 ## Data Question -- Open Data
-1. This data set contains incarceration rates in Baltimore, MD with high (75 percentile) parent income
-2. This data set contains incarceration rates in Baltimore, MD with middle (50 percentile) parent income
-3. This data set contains incarceration rates in Baltimore, MD with low (25 percentile) parent income
-4. This data set contains incarceration rates in Newton Center, MA with high (75 percentile) parent income
-5. This data set contains incarceration rates in Newton Center, MA with middle (50 percentile) parent income
-6. This data set contains incarceration rates in Newton Center, MA with kiw (25 percentile) parent income
+1. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p75.csv) contains incarceration rates in Baltimore, MD with high (75 percentile) parent income
+2. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p50.csv) contains incarceration rates in Baltimore, MD with middle (50 percentile) parent income
+3. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25.csv) contains incarceration rates in Baltimore, MD with low (25 percentile) parent income
+4. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p75%20(1).csv
+) contains incarceration rates in Newton Center, MA with high (75 percentile) parent income
+5. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p50%20(1).csv) contains incarceration rates in Newton Center, MA with middle (50 percentile) parent income
+6. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25%20(1).csv ) contains incarceration rates in Newton Center, MA with kiw (25 percentile) parent income
