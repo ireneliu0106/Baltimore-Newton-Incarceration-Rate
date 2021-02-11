@@ -23,7 +23,7 @@ __What is the average incarceration rate in Newton Center, MA in relation to par
 ![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Newton%2C%20MA.png)
 We can also find that the average incarceration rate is the highest among the tract with low parent income and the lowest among the tract with high parent income. We draw similar conclusion from this result that average incarceration rate is inversely proportional to parent income in Newton, MA.
 
-__How is the average incarceration rate in Baltimore, MD and compare to that of Newton Center, MA?__
+__How does the average incarceration rate in Baltimore, MD compare to Newton Center, MA?__
 ![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Combined.png)
 As shown in the combined graph, the average incarceration rate in Baltimore, MD is significantly higher than Newton Center, MA. However, regardless of the difference in incarceration rate, the trend that low parent income tract has the highest incarceration rate and high parent income tract has the lowest incarceration rate still remain in both Baltimore and Newton Center. 
 ## Business Answer
