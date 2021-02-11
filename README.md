@@ -5,11 +5,24 @@ The United States has one of the highest incarceration rate in the world. In the
 ## Business Question
 What is the relationship between incarceration rates and parent income in Baltimore, MD and Newton Center, MA?
 ## Data Question -- Open Data
-All the dataset were downloaded from [Opportunity Atlas](https://www.opportunityatlas.org/)
+All the datasets were downloaded from [Opportunity Atlas](https://www.opportunityatlas.org/)
 1. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p75.xlsx) contains incarceration rates in Baltimore, MD with high (75 percentile) parent income
 2. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p50.xlsx) contains incarceration rates in Baltimore, MD with middle (50 percentile) parent income
 3. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25.xlsx) contains incarceration rates in Baltimore, MD with low (25 percentile) parent income
 4. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p75%20(1).xlsx) contains incarceration rates in Newton Center, MA with high (75 percentile) parent income
 5. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p50%20(1).xlsx) contains incarceration rates in Newton Center, MA with middle (50 percentile) parent income
 6. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25%20(1).xlsx) contains incarceration rates in Newton Center, MA with kiw (25 percentile) parent income
+## Data Analysis
+Excel file for data analysis and the steps
 
+__What is the average incarceration rate in Baltimore, MD in relation to parent income?__
+![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Baltimore%2C%20MD.png)
+We can see from the graph that in Baltimore, the average incarceration rate is the highest among the tract with low parent income and the lowest among the tract with high parent income. We can conclude from this result that average incarceration rate is inversely proportional to parent income in Baltimore, MD.
+
+__What is the average incarceration rate in Newton Center, MA in relation to parent income?__
+![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Newton%2C%20MA.png)
+A similar analysis is performed in Newton Center, MA. We can also find that the average incarceration rate is the highest among the tract with low parent income and the lowest among the tract with high parent income. We draw similar conclusion from this result that average incarceration rate is inversely proportional to parent income in Newton, MA.
+
+__How is the average incarceration rate in Baltimore, MD and compare to that of Newton Center, MA?__
+![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Combined.png)
+As shown in the combined graph, the average incarceration rate in Baltimore, MD is significantly higher than Newton Center, MA. However, regardless of the incarceration rate, the trend that low parent income tract has the highest incarceration rate still remains in both Baltimore and Newton Center. 
