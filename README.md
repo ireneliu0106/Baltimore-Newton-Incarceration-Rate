@@ -11,9 +11,9 @@ All the datasets were downloaded from [Opportunity Atlas](https://www.opportunit
 3. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25.xlsx) contains incarceration rates in Baltimore, MD with low (25 percentile) parent income
 4. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p75%20(1).xlsx) contains incarceration rates in Newton Center, MA with high (75 percentile) parent income
 5. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p50%20(1).xlsx) contains incarceration rates in Newton Center, MA with middle (50 percentile) parent income
-6. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25%20(1).xlsx) contains incarceration rates in Newton Center, MA with kiw (25 percentile) parent income
+6. [This dataset](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/shown_tract_jail_rP_gP_p25%20(1).xlsx) contains incarceration rates in Newton Center, MA with low (25 percentile) parent income
 ## Data Analysis
-Here are the Excel file for data analysis and the step-by-step descriptions of Excel data analysis
+Here are the [Excel file](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Incarceration%20Rate%20Analysis.xlsx) for data analysis and the [step-by-step descriptions](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Step-by-step%20instructions%20of%20Excel%20data%20analysis) of Excel data analysis
 
 __What is the average incarceration rate in Baltimore, MD in relation to parent income?__
 ![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Baltimore%2C%20MD.png)
@@ -26,3 +26,5 @@ A similar analysis is performed in Newton Center, MA. We can also find that the 
 __How is the average incarceration rate in Baltimore, MD and compare to that of Newton Center, MA?__
 ![alt text](https://github.com/ireneliu0106/Baltimore-Newton-Incarceration-Rate/blob/main/Combined.png)
 As shown in the combined graph, the average incarceration rate in Baltimore, MD is significantly higher than Newton Center, MA. However, regardless of the incarceration rate, the trend that low parent income tract has the highest incarceration rate still remains in both Baltimore and Newton Center. 
+## Business Answer
+Based on the data analysis, we can see that in both Baltimore, MD and Newton Center, MA, the average incarceration rate and parent income exhibit an inverse relationship, even though the total avergae incarceration rates in the two cities are significantly different. More in-depth data analysis can be conducted in other cities as well to see if such trend applies to most cities in the US. This analysis is important, as we can see if solutions can be taylored specifically to this finding in order to lower the incarceration rate in the US. In future studies, we can also look at additional data such as the individual/household income vs incarceration rate or parent incarceration rate vs children incarceration rate to further explore the role of parent and income play on incarceration rate. 
