@@ -1,1 +1,13 @@
-- Go to Opportunity Atlas and download the incarceration rate data for high, middle, and low income datasets for Baltimore, MD and Newton Center, MA
+1. Go to Opportunity Atlas and download the incarceration rate data for high, middle, and low income datasets for Baltimore, MD and Newton Center, MA
+2. Combine the three datasets for Baltimore, add a column on excel noting parent income (high, middle, or low), and add another column noting the city (Baltimore) in a new worksheet in excel
+3. Insert a PivotTable in new worksheet, drag parent income to the row and incarceration rate to the value field
+4. Change the value incarceration rate from sum to average
+5. Create a pivot chart from this PivotTable
+6. Combine the three datasets for Newton Center, add a column on excel noting parent income (high, middle, or low), and add another column noting the city (Newton Center) in a new worksheet in excel
+7. Insert a PivotTable in new worksheet, drag parent income to the row and incarceration rate to the value field
+8. Change the value incarceration rate from sum to average
+9. Create a pivot chart from this PivotTable
+10. Combine the datasets from step 2 and step 6 in a new worksheet
+11. Insert a PivotTable in new worksheet, drag parent income to the row, city to the column, and incarceration rate to the value field 
+12. Change the value incarceration rate from sum to average
+13. Create a pivot chart from this PivotTable
